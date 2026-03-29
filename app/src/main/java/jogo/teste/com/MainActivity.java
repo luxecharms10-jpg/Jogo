@@ -21,12 +21,12 @@ import androidx.fragment.app.Fragment;
 public class MainActivity extends AppCompatActivity {
  
 
-sum =();
+private Sum();
 
   }  
 
-public void Telainicio { 
+protected void onCreate(Bundle savedInstanceState) { 
 
-  int sum = ( 10 + 3 );
+  int Sum = ( 10 + 3 );
 }
 
