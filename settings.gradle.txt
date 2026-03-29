@@ -1,0 +1,25 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+        maven { url "https://android-sdk.is.com/" }
+    }
+}
+
+plugins {
+    id("com.android.application") version "8.1.1" apply false
+}
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    
+    repositories {
+        google()
+        mavenCentral()
+        maven { url "https://android-sdk.is.com/" }
+    }
+}
+
+rootProject.name = "ZenSleepAccess"
+include(":app")
