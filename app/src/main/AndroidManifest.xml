@@ -41,9 +41,9 @@
     <application
         android:allowBackup="true"
         android:label="Jogo"
-        android:theme="@andoido;style/Theme.Jogo"
-        android:icon="@mipmap/ic_launcher"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:theme="@andoid;style/Theme.Jogo"
+        android:icon="@android;mipmap/ic_launcher"
+        android:roundIcon="@andoid;mipmap/ic_launcher_round"
         android:supportsRtl="true">
 
         <!-- MAIN -->
