@@ -40,10 +40,9 @@
 
     <application
         android:allowBackup="true"
-        android:label="Jogo"
-        android:theme="@andoid;style/Theme.Jogo"
-        android:icon="@android;mipmap/ic_launcher"
-        android:roundIcon="@andoid;mipmap/ic_launcher_round"
+        android:icon="@android:drawable/sym_def_app_icon"
+        android:roundIcon="@android:drawable/sym_def_app_icon"
+        android:theme="@android:style/Theme.Material.Light"
         android:supportsRtl="true">
 
         <!-- MAIN -->
