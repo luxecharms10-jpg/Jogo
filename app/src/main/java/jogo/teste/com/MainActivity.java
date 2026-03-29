@@ -19,6 +19,14 @@ import androidx.fragment.app.Fragment;
 
 
 public class MainActivity extends AppCompatActivity {
-  
+ 
+
+sum =();
 
   }  
+
+public void Telainicio { 
+
+  int sum = ( 10 + 3 );
+}
+
